@@ -1,1 +1,3 @@
-It has come to my notice that when I post the dashboards, it is not being able to capture the exact changes. So I thought of making a submodule which consists the snapshots of the dashboards. I'll post the snapshots as I make any changes - however big or small.
+* It has come to my notice that when I post the dashboards, it is not able to capture the exact changes. So, I decided to create a submodule that consists of snapshots of the dashboards. I'll post the snapshots as I make any changes - however big or small.
+* **Capture.PNG** is a snapshot which has a few KPIs which I intend to show on the summary (or the landing) page in the dashboard.
+* **Capture2.PNG** is another snapshot which contains all the KPIs which I intend to show on the summary (or the landing) page in the dashboard. It **does not** have the navigation yet. That'll be captured "hopefully" in the next Capture.
